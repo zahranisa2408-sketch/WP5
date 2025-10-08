@@ -1,4 +1,4 @@
 # WP5
-Zahratun Nisa
-Monica Putri Sakura
+Zahratun Nisa,
+Monica Putri Sakura,
 Lola Narulita
